@@ -1,4 +1,4 @@
-#Foodiehub Website
+## Foodiehub Website
 
 This repository contains the codebase for the Foodiehub website, a fictional AI-powered food subscription service. This website is designed to showcase the concept of a smart food subscription tailored to individual tastes and nutritional needs.
 
